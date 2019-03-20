@@ -22,3 +22,16 @@ A list of links and Resources for learning more web design stuff
 
 * **[Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)** simplified rich text formating language that outputs to HTML
 * **[Emmet Cheetsheet](https://docs.emmet.io/cheat-sheet/)** html shorthand for writing faster using css selector type notation
+
+
+
+## Getting Started with Webpack
+
+* **WebPack** - https://webpack.js.org/concepts/
+* **jQuery** - https://api.jquery.com/
+* **Zurb Foundation** - https://foundation.zurb.com/sites/docs/
+* **Font Awesome** - https://fontawesome.com/icons?d=gallery
+* **Slick Carousel** - http://kenwheeler.github.io/slick/
+* **Featherlight** - https://github.com/noelboss/featherlight
+* **Babel** - https://babeljs.io/docs/en/
+* **SASS** - https://sass-lang.com/
