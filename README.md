@@ -4,20 +4,14 @@ Resources
 A list of links and Resources for learning more web design stuff
 
 ### UI/UX
-<ul>
-    <li>
-        [LearnUI.design](https://learnui.design/blog/)
-    </li>
-    <li>
-    [King VS Pawn game UI Design](https://learnui.design/blog/king-vs-pawn-game-ui-design.html)
-    </li>
-    <li>
-        <a href="https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html">
-            7 Rules For Creating Gorgeous UI
-        </a>
-    </li>
-</ul>
-<h2>CSS</h2>
+
+
+* [LearnUI.design](https://learnui.design/blog/)
+
+* [King VS Pawn game UI Design](https://learnui.design/blog/king-vs-pawn-game-ui-design.html)
+* [7 Rules For Creating Gorgeous UI](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
+
+## CSS
 <ul>
     <li>
         <a href="http://getbem.com/">
