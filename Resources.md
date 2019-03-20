@@ -7,7 +7,6 @@ A list of links and Resources for learning more web design stuff
 <ul>
     <li>
         [LearnUI.design](https://learnui.design/blog/)
-        </a>
     </li>
     <li>
     [King VS Pawn game UI Design](https://learnui.design/blog/king-vs-pawn-game-ui-design.html)
