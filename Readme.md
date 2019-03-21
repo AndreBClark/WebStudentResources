@@ -1,9 +1,12 @@
+# **DSCVR**
+
+
 Resources
 ======
 
 
-
 A list of links and Resources for learning more web design stuff
+[Resource List Repository](https://github.com/AndreBClark/WebStudentResources)
 
 
 ### UI/UX
@@ -28,11 +31,11 @@ A list of links and Resources for learning more web design stuff
 
 ## Getting Started with Webpack
 
-* **WebPack** - https://webpack.js.org/concepts/
-* **SASS** - https://sass-lang.com/
-* **jQuery** - https://api.jquery.com/
-* **Zurb Foundation** - https://foundation.zurb.com/sites/docs/
-* **Featherlight** - https://github.com/noelboss/featherlight
-* **Font Awesome** - https://fontawesome.com/icons?d=gallery
-* **Slick Carousel** - http://kenwheeler.github.io/slick/
-* **Babel** - https://babeljs.io/docs/en/
+* **[WebPack](https://webpack.js.org/concepts/)**
+* **[SASS](https://sass-lang.com/)**
+* **[jQuery](https://api.jquery.com/)**
+* **[Zurb Foundation](https://foundation.zurb.com/sites/docs/)**
+* **[Featherlight](https://github.com/noelboss/featherlight)**
+* **[Font Awesome](https://fontawesome.com/icons?d=gallery)**
+* **[Slick Carousel](http://kenwheeler.github.io/slick/)**
+* **[Babel](https://babeljs.io/docs/en/)**
