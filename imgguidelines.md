@@ -8,7 +8,8 @@
 * Transparent Background
 * White color skin or whatever
 * thumbnail and medium size
-* Square proportion
+* Square ratio
+* Or 3:2
 
 ### Portfolio Pieces
 **Ratio**
