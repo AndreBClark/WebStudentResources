@@ -10,6 +10,12 @@
 * thumbnail and medium size
 * Square proportion
 
+### Portfolio Pieces
+**Ratio**
+* Tabloid/letter
+* Square
+* otherwise keep the ratio but make sure to crop out empty space
+
 ### Image resolutions
 DPI/PPI: **72**
 
